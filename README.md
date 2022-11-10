@@ -1,2 +1,2 @@
 # dentalXray
- findign bbox coordinates from xray
+ finding bbox coordinates from xray
